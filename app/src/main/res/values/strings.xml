@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Employee Directory</string>
+    <string name="main_subtitle">Browse employee information</string>
+    <string name="employee_meta_format">Age %1$s · %2$s</string>
+    <string name="empty_state_message">No employees found.</string>
+    <string name="retry">Retry</string>
+    <string name="label_name">Name</string>
+    <string name="label_age">Age</string>
+    <string name="label_salary">Salary</string>
+    <string name="content_description_back">Navigate back</string>
+    <string name="employee_details_title">Employee Details</string>
+</resources>
